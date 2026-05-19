@@ -1,28 +1,28 @@
-# 👋 안녕하세요! 성장하는 AI/빅데이터 엔지니어 j-woong입니다.
+# 👋 안녕하세요, 빅데이터/AI 엔지니어를 준비하는 지웅입니다.
 
-> 💡 **"오늘의 치열한 기록이 내일의 단단한 기본기가 된다."**
-> 휴학 기간 동안 탄탄한 CS 지식과 알고리즘 구현 능력을 쌓으며 빅데이터 및 AI 엔지니어로 빌드업 중입니다. 🌱
-
----
-
-## 🛠️ 주력 기술 및 도구 (Tech Stacks)
-
-* 💻 **Languages:** `Python`, `Java`, `Node.js`
-* 🧠 **Core:** 자료구조 (`Data Structures`), 알고리즘 (`Algorithms`)
-* ⚙️ **Tools:** `VS Code`, `macOS`, `Notion`
+현재 대학교 학부 과정 중 빅데이터 트랙을 밟고 있으며, 휴학 기간 동안 탄탄한 CS 기본기와 실전 알고리즘 해결 능력을 키우는 데 집중하고 있습니다. 
 
 ---
 
-## 📊 주력 저장소 (Core Repository)
+## 🛠️ Tech Stacks
 
-### 🧠 [Tech-Archive 저장소 바로가기 (클릭)](https://github.com/j-woong/Tech-Archive)
-* 📑 **빅데이터/AI 엔지니어**가 되기 위한 핵심 CS 지식 아카이브 저장소입니다.
+* **Languages:** `Python` (주력), `Java`, `Node.js`
+* **Core:** 자료구조, 알고리즘 실전 문제 풀이 및 오답 노트 작성
+* **Tools:** `VS Code`, `macOS`, `Notion`
 
 ---
 
-## 🧭 Contact & Study Link
+## 📊 Core Repository
 
-* 📔 **Study Archive:** [나만의 Notion 스페이스 바로가기](https://field-soapwort-656.notion.site)
-  * *CS 이론 및 파이썬 문법 핵심 요약 노트 (Cheat Sheet) 운영 중*
-* 📅 **Study Planner:** [나의 매일 학습 플래너 바로가기](https://www.notion.so/36439f01882780d0ae40c57d2a03d98f?v=36439f01882780a6b06c000cb365acb2&source=copy_link)
-  * *매일의 학습 계획과 실행 현황을 치열하게 기록하는 캘린더*
+### 🧠 [Tech-Archive (클릭)](https://github.com/j-woong/Tech-Archive)
+* **백준/프로그래머스 구현 및 알고리즘 오답 노트** 저장소입니다.
+* 단순히 정답을 맞히는 것에 그치지 않고, 코드마다 주석으로 **[왜 이 풀이를 선택했는지, 어떤 예외에서 막혔는지]** 상세히 기록하며 풀고 있습니다.
+* 🔗 이 저장소의 풀이들과 매칭되는 [파이썬 문법 및 CS 요약 노트는 여기](https://field-soapwort-656.notion.site)서 함께 보실 수 있습니다.
+
+---
+
+## 🧭 Contact & Link
+
+* 📅 **Study Planner:** [나의 매일 학습 플래너](https://www.notion.so/36439f01882780d0ae40c57d2a03d98f?v=36439f01882780a6b06c000cb365acb2&source=copy_link)
+  * 매일의 공부 계획과 실행 여부를 기록하는 캘린더입니다. 꾸준함을 유지하기 위해 매일 작성하고 있습니다.
+* 📔 **Study Archive:** [개인 Notion 스페이스](https://field-soapwort-656.notion.site)
