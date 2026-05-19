@@ -19,9 +19,13 @@
 
 ## 📊 GitHub Stats & Core Repositories
 
-| ⚡ My GitHub Status | 🚀 Core Repository |
-| :---: | :--- |
-| ![j-woong's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-woong&show_icons=true&theme=radial&hide_border=true) | 🧠 **[Tech-Archive](./Tech-Archive)**<br>• 빅데이터/AI 엔지니어가 되기 위한 핵심 CS 지식 아카이브<br>• 매일 치열하게 풀어온 80+개의 알고리즘 실전 기록 및 주석 오답 노트 연동 |
+### 🚀 주력 저장소 (Core Repository)
+* 🧠 **[Tech-Archive](https://github.com/j-woong/Tech-Archive)**
+  * 빅데이터/AI 엔지니어가 되기 위한 핵심 CS 지식 아카이브 저장소입니다.
+  * 매일 치열하게 풀어온 80+개의 알고리즘 실전 기록 및 주석 오답 노트를 연동하여 관리하고 있습니다.
+
+### ⚡ My GitHub Status
+![j-woong's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-woong&show_icons=true&theme=radial&hide_border=true)
 
 ---
 
