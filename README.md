@@ -13,17 +13,17 @@
 
 ---
 
-## 📊 주력 저장소 및 링크
+## 📊 주력 저장소 (Core Repository)
 
-* 🚀 [Tech-Archive 저장소 바로가기](https://github.com/j-woong/Tech-Archive)
-  * 빅데이터/AI 엔지니어가 되기 위한 핵심 CS 지식 아카이브
-  * 매일 풀어온 알고리즘 실전 기록 및 주석 오답 노트 연동
+# 🧠 Tech-Archive (빅데이터/AI 핵심 아카이브)
 
-* 📔 [나만의 Notion 스페이스 바로가기](https://field-soapwort-656.notion.site)
-  * CS 이론 및 파이썬 문법 핵심 요약 노트 (Cheat Sheet) 운영 중
+> 🔗 **이론 연동 노트:** 이 저장소의 코드들과 매칭되는 [파이썬 문법 Cheat Sheet 및 CS 요약본은 여기](https://field-soapwort-656.notion.site)에서 실시간으로 함께 보실 수 있습니다!
 
 ---
 
 🧭 **Contact & Study Link**
-* 📔 **Study Archive:** [나만의 Notion 스페이스 바로가기](https://field-soapwort-656.notion.site)
-* 📅 **Study Planner:** [나의 매일 학습 플래너 바로가기](여기에_스터디_플래너_노션_공유_링크_붙여넣기)
+
+* 📔 **Study Archive:** [나만의 Notion 스페이스 바로가기]([https://field-soapwort-656.notion.site](https://www.notion.so/CS-Studying-277b842a1c0643e89284ee664dee9e96?source=copy_link))
+  * CS 이론 및 파이썬 문법 핵심 요약 노트 (Cheat Sheet) 운영 중
+* 📅 **Study Planner:** [나의 매일 학습 플래너 바로가기]([여기에_스터디_플래너_노션_공유_링크_붙여넣기](https://www.notion.so/36439f01882780d0ae40c57d2a03d98f?v=36439f01882780a6b06c000cb365acb2&source=copy_link))
+  * 매일의 학습 계획과 실행 현황을 치열하게 기록하는 캘린더
