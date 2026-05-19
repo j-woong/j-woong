@@ -21,3 +21,9 @@
 
 * 📔 [나만의 Notion 스페이스 바로가기](https://field-soapwort-656.notion.site)
   * CS 이론 및 파이썬 문법 핵심 요약 노트 (Cheat Sheet) 운영 중
+
+---
+
+🧭 **Contact & Study Link**
+* 📔 **Study Archive:** [나만의 Notion 스페이스 바로가기](https://field-soapwort-656.notion.site)
+* 📅 **Study Planner:** [나의 매일 학습 플래너 바로가기](여기에_스터디_플래너_노션_공유_링크_붙여넣기)
