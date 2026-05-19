@@ -17,7 +17,6 @@
 
 ### 🧠 [Tech-Archive 저장소 바로가기 (클릭)](https://github.com/j-woong/Tech-Archive)
 * 📑 **빅데이터/AI 엔지니어**가 되기 위한 핵심 CS 지식 아카이브 저장소입니다.
-* 🔗 **이론 연동:** 이 저장소의 코드들과 매칭되는 [파이썬 문법 Cheat Sheet 및 CS 요약본](https://field-soapwort-656.notion.site)을 실시간으로 함께 확인하실 수 있습니다.
 
 ---
 
