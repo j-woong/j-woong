@@ -6,7 +6,7 @@
 
 ## 🛠️ Tech Stacks
 
-* **Languages:** `Python` (주력), `Java`, `Node.js`
+* **Languages:** `Python` (주력), `Java`
 * **Core:** 자료구조, 알고리즘 실전 문제 풀이 및 오답 노트 작성
 * **Tools:** `VS Code`, `macOS`, `Notion`
 
