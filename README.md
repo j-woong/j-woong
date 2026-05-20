@@ -16,7 +16,7 @@
 
 ### 🧠 [Tech-Archive (클릭)](https://github.com/j-woong/Tech-Archive)
 * **백준/프로그래머스 구현 및 알고리즘 오답 노트** 저장소입니다.
-* 단순히 정답을 맞히는 것에 그치지 않고, 코드마다 주석을 달고 **[🔥 실시간 트러블슈팅 아카이브](./TroubleShooting.md)**를 통해 [왜 이 풀이를 선택했는지, 어떤 예외 케이스에서 막혔는지] 치열하게 고민한 흔적을 누적하고 있습니다.
+* 단순히 정답을 맞히는 것에 그치지 않고, 코드마다 주석을 달고 **[🔥 실시간 트러블슈팅 아카이브](https://github.com/j-woong/Tech-Archive/blob/main/TroubleShooting.md)**를 통해 [왜 이 풀이를 선택했는지, 어떤 예외 케이스에서 막혔는지] 치열하게 고민한 흔적을 누적하고 있습니다.
 * 🔗 이 저장소의 풀이들과 매칭되는 [파이썬 문법 및 CS 요약 노트는 여기](https://www.notion.so/CS-Studying-277b842a1c0643e89284ee664dee9e96?source=copy_link)서 함께 확인하실 수 있습니다.
 
 ---
