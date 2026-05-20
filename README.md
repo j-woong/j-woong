@@ -23,7 +23,7 @@
 
 ## 🧭 Contact & Link
 
-* 📅 **Study Planner:** [나의 매일 학습 플래너](https://www.notion.so/36439f01882780d0ae40c57d2a03d98f?v=36439f01882780a6b06c000cb365acb2&source=copy_link)
+* 📅 **Study Planner:** [나의 매일 학습 플래너](https://www.notion.so/36439f01882780139ef1e00d78ed5871?v=36439f01882780b89006000c276b3391&source=copy_link)
   - 매일의 공부 계획과 실행 여부를 기록하는 캘린더입니다. 성장의 연속성을 증명하기 위해 매일 거르지 않고 작성하고 있습니다.
 * 📔 **Study Archive:** [개인 Notion 스페이스](https://www.notion.so/CS-Studying-277b842a1c0643e89284ee664dee9e96?source=copy_link)
   - 자료구조, 운영체제(OS) 등의 핵심 CS 개념과 AI 모델링 이론을 체계적으로 아카이빙하는 공간입니다.
