@@ -17,7 +17,7 @@
 
 ## 📊 Core Repositories
 
-### ⚡ [Boostcamp-Web-JS (클릭)](여기에_새로_만들_자바스크립트_저장소_링크_넣기)
+### ⚡ [Boostcamp-Web-JS (클릭)](https://github.com/j-woong/Boostcamp-Web-JS)
 * **네이버 부스트캠프 웹 트랙 합격을 위한 JavaScript 전용 코딩 테스트 및 CS 구현** 저장소입니다.
 * `Python`으로 다져온 알고리즘 논리력을 `JavaScript` 환경으로 온전히 이식하며, 매일 Lv.0부터 Lv.2까지의 구현/시뮬레이션 문제를 꼼꼼하게 정복해 나가고 있습니다.
 
