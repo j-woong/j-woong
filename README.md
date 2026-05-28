@@ -21,7 +21,7 @@
 * **네이버 부스트캠프 웹 트랙 합격을 위한 JavaScript 전용 코딩 테스트 및 CS 구현** 저장소입니다.
 * `Python`으로 다져온 알고리즘 논리력을 `JavaScript` 환경으로 온전히 이식하며, 매일 Lv.0부터 Lv.2까지의 구현/시뮬레이션 문제를 꼼꼼하게 정복해 나가고 있습니다.
 
-### 🧠 [Cote-Python] (클릭)](https://github.com/j-woong/Cote-Python)
+### 🧠 [Cote-Python (클릭)](https://github.com/j-woong/Cote-Python)
 * **기존 파이썬 기반 백준/프로그래머스 알고리즘 오답 노트** 저장소입니다.
 * 코드를 짤 때 왜 이 풀이를 선택했는지 예외 케이스를 치열하게 고민했던 흔적과, [🔥 실시간 트러블슈팅 아카이브](https://github.com/j-woong/Cote-Python/blob/main/TroubleShooting.md)가 누적되어 있습니다.
 
